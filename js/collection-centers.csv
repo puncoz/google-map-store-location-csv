@@ -1,0 +1,326 @@
+ID,Name,Ciity,Address,Telephone,Postal Code,Opening Hours,Latitude,Longitude
+1,ROSEBERRY,Sydney,"337A Gardeners Road, Roseberry, NSW 2474 Australia",9669 3616,2474,"(Tue, Thu) – 8:30am – 1:00pm  (Sat) – CLOSED",-33.9229154,151.2051266
+2,ROCKDALE,Sydney,"Bay Medical Centre 520 Princess Hwy, Rockdale Sydney",9597 6655,2216,(Mon-Fri) -8:00am-4:30pm (Sat) – 8:00am-1:00pm,-33.9532019,151.1378946
+3,ARNCLIFFE,Sydney,"1-3 Queen Street Arncliffe, NSW 2205 Australia",9597 3366,2205,(Mon-Fri) - 8:00am - 1:00pm,-33.9370183,151.1462049
+4,MARRICKVILLE,Sydney,"322 Marrickville Rd, Marrickville Sydney",8095-8990,2204,(Mon-Fri) – 8:00am – 4:00pm  (Sat) – 8:00am – 1:00pm,-33.9102235,151.1552925
+5,ENMORE,Sydney,"214 Enmore Road, Enmore Sydney, NSW 2042",02 9519 4888,2042,(Mon-Fri) - 8:00am - 1:00pm,-33.8995389,151.1712571
+6,SYDNEY CBD 4,Sydney,"Level 2, 722 George St, Sydney",9281 7311,722,9:00 AM – 1:00 PM (Tue & Sat Only),-33.8895857,151.2025407
+7,SYDNEY CBD 3,Sydney,"World Square, Shop 9.09C 650 George St, Sydney, NSW 2000 Australia",97770024,2000,(Mon-Fri) – 8:30am – 4:30pm  (Sat) – 10:00am – 2:00pm,-33.8771813,151.2068788
+8,SYDNEY CBD 1 (HYDE PARK),Sydney,"Ground Floor, 175 Liverpool St, Hyde Park Sydney, NSW 2000 Australia",92831234,2000,(Mon-Fri) – 8:00am-6:00pm (Sat) – 10:00am-2:00pm (Sun) – 10:00am-2:00pm,-33.8770572,151.2108926
+9,Sydney CBD 7,Sydney,"MYHEALTH SHOP 8, 151 Castlereagh Street Sydney, NSW 2000 Australia",81973388,2000,8:00 AM - 4:30 PM (Mon-Fri) 8:00 AM - 12:00 PM (Sat),-33.8719542,151.2090148
+10,SYDNEY CBD 5,Sydney,"92 Pitt Street Sydney, NSW 2000",9235 0099,2000,BY APPOINTMENT ONLY,-33.8671912,151.208819
+11,SYDNEY CBD 6,Sydney,"Medclinic 1/60 Carrington Street Sydney, NSW 2000 Australia",8937 0389,2000,BY APPOINTMENT ONLY,-33.8666928,151.206556
+12,THE ROCKS,Sydney,"THE ROCKS 200 Cumberland St, The Rocks Sydney, NSW 2000",9252 2200,2000,BY APPOINTMENT ONLY,-33.862367,151.205812
+13,PYRMONT,Sydney,"Shop 9, 45-55 Harris St, Pyrmont Sydney, NSW 2009",9518 6869,2009,Hours:  (Mon-Fri) – 8:30am-12:30pm,-33.8672433,151.1921455
+14,BERRY,Berry,"BERRY Shop 2, 78 Albert St, Berry Sydney, NSW 2535 Australia",0412 496 320,2535,(Mon-Fri) – 7:30am – 12:30pm,-34.7749556,150.6973128
+15,KIAMA,Kiama,"Shop 10 143 Terralong St., Kiama, NSW 2533 Australia",4232 1122,2533,BY APPOINTMENT ONLY,-34.6669041,150.8502937
+17,ALGESTER,Queensland,"Algester Medical Centre 1/34 Algester Rd Algester, QLD 4115",Phone: 07 3711 2401,4115,(Mon - Fri)-7.30am -4.00pm,-27.605733,153.043119
+18,ACACIA RIDGE,Queensland,"Shop 20, 28 Elizabeth Street Acacia Ridge, QLD 4110 Australia",Phone: 07 3272 9738,4110,(Mon-Fri) - 6.00am-2.00pm (Sat) - 8.00am-11.00am,-27.5904359,153.0276689
+19,SHERWOOD,Queensland,"Sherwood Surgery 648 Sherwood Rd Sheerwood, QLD 4075",07 37160353,4075,8:30 AM - 12:30 PM (Monday to Friday),-27.532679,152.982053
+20,UPPER MT GRAVAT,Queensland,"Garden City Family Doctors Shop 1108A, Garden City Shopping Centre Upper Mount Gravatt, QLD 4122 Australia",07 34206225,4122,8 AM - 4 PM (Monday to Friday) 9:00-12:00 (Saturday Only),-27.5627734,153.0829343
+21,COORPAROO,Queensland,"Cavendish Rd Clinic 342 Cavendish Rd Coorparoo, QLD 4151 Australia",07 33941752,4151,7:30 AM to 3:30 PM (Monday - Friday),-27.5050559,153.0617195
+22,GREENSLOPES,Queensland,"Stones Corner Medical Centre 383 Logan Road Greenslopes, QLD 4120 Australia",07 38479446,4120,8 AM - 4 PM (Monday - Friday),-27.4997892,153.0451601
+23,WOOLLOONGABBA,Queensland,"Mater Hills Family Medical 7/40 Annerley Rd Woolloongabba, QLD 4102 Australia",07 32173583,4102,8 AM - 4 PM (Monday to Friday) 8 AM - 12 PM (Saturday),-27.488075,153.029038
+24,CANON HILL,Queensland,"Shop 1, K Mart Plaza Cannon Hill, 1909 Creek Road Canon Hill, QLD",07 38991510,1909,08:00 AM to 12:00 PM (Mon to Fri),-27.4712547,153.0981077
+25,NORMAN PARK,Queensland,"Bennetts Road Medical Centre 154 Bennetts Rd Norman Park, QLD 4170 Australia",07 33950625,4170,8:30 AM - 12: 30 PM (Monday to Friday),-27.4845311,153.063287
+26,INALA,Queensland,"Allcare Inala Medical CentreEzy Shopping Plaza, 2/156 Inala Ave, Inala, QLD, 4077 Australia",07 33723964,4077,7 AM - 5:00 PM (Monday to Friday) 8 AM - 11 AM (Saturday),-27.5998827,152.9734251
+27,KINGSTON,Queensland,"All Care Medical CentreShop 4, 52 Juers StKingston, QLD, 4114 Australia",07 32091356,4114,7 AM - 3 PM (Monday to Friday),-27.6594359,153.1092423
+28,DAISY HILL,Queensland,"11 Allamanda Drive, Daisy HillDaisy Hill, QLD, 4127",,4127,7:00 AM - 01:00 PM(Mon-Fri),-27.6446109,153.1547842
+29,Capalaba,Queensland,"Yulu-Burri-Ba Medical CentreShop 2, 1 Finucane RdCapalaba, QLD, 4157 Australia",07 38235035,4157,8 AM - 4 PM (Monday to Friday),-27.522835,153.2009931
+30,Red Hill,Queensland,"Red Hill Doctor Surgery 11 Windsor RdRed Hill, QLD, 4059 Australia",07 33683680,4059,8 AM - 6 PM (Monday to Friday) 8:30 AM - 11:30 AM (Saturday),-27.4540944,153.0072616
+31,Kenmore,Queensland,"Shop 5, 9 Marshal lane, Kenmore9 Marshall LaneKenmore, QLD, 4069 Australia",07 30875380,4069,8:00 AM - 1:00 PM (Monday to Friday),-27.508892,152.947304
+32,Lutwyche,Queensland,"Lutwyche Medical CentreShop 9 543 Lutwyche RdLutwyche, QLD, 4030 Australia",,4030,8:00 AM - 4:00 PM (Mon - Fri),-27.4217,153.0343715
+33,Park Ridge,Queensland,"Park Ridge Family PracticePark Ridge Shopping Village, 3737 Mount Lindsay HwyPark Ridge, QLD, 4125 Australia",07 38022927,4125,7:30 AM - 4 PM (Monday - Friday) 8:30 AM - 11:30 AM (Saturday),-27.6967783,153.0389224
+34,Pullenvale,Queensland,"Medplus Medical Centre8 McCaskill RdPullenvale, QLD, 4069 Australia",,4069,8:00 AM - 12:00 PM (Mon - Fri),-27.5296739,152.909764
+35,Stafford Heights,Queensland,"Rode Medical CentreRode Shopping Centre Shop, 17-19/734 Rode RdStafford Heights, QLD, 4053",07 38615708,4053,8 AM - 4:30 PM (Monday - Friday),-27.3923893,153.0121332
+36,Everton Park,Queensland,"McDowall Family Medical CentreNorthwest Plaza, 20/97 Flockton StreetEverton Park, QLD, 4053 Australia",07 33539864,4053,8 AM - 6 PM (Monday to Friday) 8:30 AM - 11:00 AM (Saturday),-27.3941498,152.9968547
+37,Eagleby,Queensland,"Life Care Medical Centre Group,Eagleby Shopping Cntr, Cnr Fryar and Riverhills RdEagleby, QLD, 4207 Australia",07 38046858,4207,8 AM - 4 PM (Monday - Friday),-27.7008084,153.2125479
+38,REDBANK PLAZA,Queensland,Z Plus ClinicShop 27 Town Square Shopping CentreRedbank plains,07 3463 7565,4301,8:00 AM - 12:00 PM (Monday to Friday),-27.6451802,152.8685857
+39,ALBANY CREEK,Queensland,"Albany Care Medical CentreShop 1, 720 Albany Creek RdAlbany Creek, QLD, 4035 Australia",07 3264 1923,4035,8 AM - 4 PM (Monday - Friday),-27.346151,152.967623
+40,Strathpine,Queensland,"Strathpine GP Superclinic1/328 Gympie RdStrathpine, QLD",07 34800131,4500,7 AM - 5 PM (Monday to Friday) 8 AM - 12 PM ( Saturday),-27.3063463,152.9887595
+41,North Stradbroke Island (Dunwich),Queensland,"Yulu-Burri-Ba Medical CentreGround Floor, 16 Dickson HwyDunwich, QLD, 4183 Australia",07 34099596 as MC (call transfer),4183,7:30 AM - 11: 30 AM (Monday to Friday),-27.491448,153.406693
+42,Margate,Queensland,"Beach Medical Clinic135 Margate ParadeMargate, QLD, 4019 Australia",07 38894090,4019,7 AM - 3 PM (Monday to Friday),-27.240622,153.112756
+43,Mango Hill,Queensland,"Medical Zone Family PracticeShop 5, 921 Anzac AveMango Hill, QLD, 4509 Australia",,4509,7:30 AM- 12 PM (Monday - Friday),-27.2430343,153.0241011
+44,Pimpama,Queensland,"Pimpama Medical Centre10/28 Dixon Drive, PimpamaPimpama, QLD, 4209 Australia",07 55407298,4209,7:30 AM - 2:30 PM (Mon - Fri),-27.8255757,153.3168084
+45,Narangba,Queensland,"Narangba Vally Medical Centre1A/212-226 Young RdNarangba, QLD, 4504 Australia",07 33857376,4504,8 AM - 1 PM (Monday - Friday),-27.1728919,152.9374106
+46,Upper Coomera,Queensland,"Upper Coomera Medical CentreCnr Reserve & Hargraves RdsUpper Coomera, QLD, 4209 Australia",7 56659315,4209,08:00 AM - 4:30 PM (Monday) 09:00 - 12:30 PM (Saturday),-27.8707297,153.3044463
+47,Deception Bay,Queensland,"Zammit Street Surgeryroom 11, 25 Zammit StDeception Bay, QLD, 4508 Australia",07 38889653,4508,8 AM - 12 PM (Monday to Friday),-27.1823014,153.0050486
+48,Helensvale,Queensland,"Shop 4C, 175 Monterey Keys Road Helensvale",07 55803184,4212,08 AM - 12 PM(Mon - Fri),-27.8924574,153.3374919
+49,BURPENGARY,Queensland,"Medlab pathology Cntr4/184 Station RdBurpengary, QLD, 4505 Australia",07 3888 4052,4505,(Mon-Fri) - 6.00am-4.00pm,-27.1533417,152.9756848
+50,BURPENGARY,Queensland,"Burpengary Morayfield Hub MCShop 20, 115 - 117 Buckley RdBurpengary, QLD , 4505 Australia",07 5433 1710,4505,(Mon-Fri) - 7.30am-4.00pm (Sat) - 8.00am-11.00am,-27.138372,152.980213
+51,Runaway Bay,Queensland,"Runaway Bay Shopping Village Shop 44a, Bayview St, Runaway Bay Runaway Bay, QLD, 4216 Australia",07 55379561,4216,8 AM - 4 PM (Monday - Friday),-27.91457,153.400012
+52,BIGGERA WATERS,Queensland,"Habourtown Centre/ Oxley drive Shop A37, Cnr Gold Coast Highway & Oxley DriveBiggera Waters, QLD, 4216 Australia",027 5537 7831,4216,"(Mon-Fri) - 7.00am-3.00pm , (Sat) - 8.00am-11.00am, (Sun) - 8.00am-11.00am",-27.9323612,153.3872725
+53,BIGGERA WATERS,Queensland,"Biggera Waters Family Practice40 Hollywell RdBiggera Waters, QLD, 4216 Australia",07 5500 6526,4216,8 AM - 4 PM (Monday - Friday),-27.932831,153.399467
+54,Sandstone Point,Queensland,"Pebble Beach Medical Centre204 Bestmann Rd EastSandstone Point, QLD",07 54977109,4511,8 AM - 4 PM (Monday - Friday),-27.0796223,153.1257325
+55,Southport,Queensland,"Johnston Street Medical Centre33 George StreetSouthport, QLD",07 55918833 same as MC (call transfer),4215,9:00-12:00 (Tuesday Only),-27.965346,153.406091
+56,Southport,Queensland,"Nerang St Mall Medical Centre3/19A Nerang StSouthport, QLD, 4215",07 55911322 same as MC (call transfer),4215,8 AM - 4 PM (Monday - Friday),-27.9747747,153.4021326
+57,Chevron Island,Queensland,"Chevron Advanced Medical2 - 3 / 57 Thomas DriveChevron Island, QLD, 4217 Australia",07 55389870,4217,8 AM - 12 PM (Monday to Friday),-27.997727,153.418825
+58,Surfers Paradise,Queensland,"Surfers Day & Night Medical Centre16/3221 Surfers Paradise BoulevardeSurfers Paradise, QLD, 4217 Australia",7 55399807,4217,07 AM - 17:00 PM (Mon - Fri) 08 AM - 11:00 AM (Sat),-27.9981112,153.4289841
+59,BUNDALL,Queensland,"Bundall Medical CentreCnr Upton St and Ashmore RoadBundall, QLD, 4217 Australia",07 5656 4870,4231,(Mon-Fri) - 7.00am-5.00pm,-28.0102889,153.4093974
+60,WORONGARY,Queensland,"Worongary Medical Centre1 Mudgeeraba Rd, WorongaryWorongary, 4231, QLD Australia(07) 55590185",(07) 55590185,4231,8:00 AM to 2:00 PM (Mon - Fri),-28.05010061,153.3533396
+61,Robina,Queensland,"Robina Family Medical CentreShop 6, Caltex Quickstop Station, 110 Laver DriveRobina, QLD",07 55932724,4226,6:00 AM - 12:00 PM (Monday to Friday) 6:00-10:00 (Saturday),-28.0712331,153.3796025
+62,MUDGEERABA,Queensland,"Bell place Professional Cntr, Cntr Bell PI & Link wayMudgeeraba",07 55304287,4213,6:30 AM to 3:30 PM (Mon - Fri),-28.0804385,153.3647498
+63,West Burleigh,Queensland,"Alive ClinicsShop 122B, Stocklands S/C, 149 West Burleigh RdWest Burleigh, QLD, 4220 Australia",07 55204356,4220,08 AM - 1:00 (Mon-Fri),-28.0984188,153.4402661
+64,REEDY CREEK,Queensland,"Reedy Creek MCShop 8, Woodland Plaza, 50 Woodland DriveReedy Creek, 4227, QLD Australia",(07) 55680309,4227,7:00 AM to 12:00 PM (Mon - Fri),-28.1018932,153.4017547
+65,BURLEIGH WATERS,Queensland,"Classic Way Family Practice2/6 Classic Way,Burleigh Waters, 4220, QLD Australia",(07) 55680481,4220,7:30 AM - 5:00 PM (Mon - Fri) 8:30 AM - 11:30 PM (Sat),-28.0995541,153.4238968
+66,Woodford,Queensland,"Woodford Family Medical Centre64 Archer StreetWoodford, QLD",07 54229375,4514,8 AM - 4 PM (Monday - Friday),-26.951466,152.775414
+67,Woodford,Queensland,"Woodford Family Medical Centre64 Archer StreetWoodford, QLD",07 54229375,4514,8 AM - 4 PM (Monday - Friday),-26.951466,152.775414
+68,CURRUMBIN WATERS,Queensland,"Galleon Way Medical Centre174 Galleon Way, Currumbin WatersCurrumbin Waters, 4223, QLD Australia",,4223,8:00 AM - 4:00 PM (Mon - Fri) 8:30 AM - 11:30 AM (Sat),-28.15703,153.459296
+69,BEERWAH,Queensland,"Beerwah SurgeryShop 4, 72 Simpson StBeerwah, QLD, 4519 Australia",07 5494 6519,4519,(Mon-Fri) - 7.00am-5.00pm (Sat) - 8.00am-12.00pm,-26.859073,152.957645
+70,COOLANGATTA,Queensland,"Strand Medical Centre72-80 Marine PdeCoolangatta , QLD, 4225 Australia",,4225,7:30 AM - 12:30 PM (Monday to Friday),-28.167869,153.537998
+71,COOLANGATTA,Queensland,"Coolangatta Medical Centre91 Griffith Street, CoolangattaCoolangatta, 4225, QLD Australia",(07) 55995496,4225,8:30 AM - 13: 30 PM (Mon - Fri),-28.1684463,153.5398177
+72,TWEED HEADS,Queensland,"Tweed Heads Surgery36 Wharf St, Tweed HeadsTweed Heads, 2485, NSW Australia",(07) 55993505,2485,7:00 AM - 3:30 PM (Mon - Fri) 8:00 AM - 11:00 AM (Sat),-28.1736842,153.5427682
+73,MALENY,Queensland,"Medicine On Maple7/15 MAPLE STREETMALENY, QLD, 4552 Australia",07 5435 2929,4552,7:00 AM - 4:30 PM (Mon- Fri),-26.758767,152.851955
+74,KINGSCLIFF,Queensland,"Kingscliff Family MedicalShop 9,38-42 Pearl St, kingsciffKingscliff, 2487, NSW Australia",(02) 66742288,2487,8:30 AM - 12: 30 PM (Mon - Fri),-28.2549998,153.5743128
+75,KINGSCLIFF,Queensland,"Kingscliff Family MedicalShop 9,38-42 Pearl St, kingsciffKingscliff, 2487, NSW Australia",(02) 66742288,2487,8:30 AM - 12: 30 PM (Mon - Fri),-28.2549998,153.5743128
+76,SIPPY DOWNS,Queensland,"Chancellor Park Family Medical18 University WaySippy Downs, QLD, 4558 Australia",07 54562919,4558,7:30 AM - 4:30 PM (Monday to Friday) 8 AM - 11 AM (Saturday),-26.7181336,153.0498387
+77,BUDDINA,Queensland,"Coastal Family HealthUnit 1, 134A Point Cartwright DrBuddina, QLD, 4575 Australia",07 5452 5800,4575,(Mon-Fri) - 7.30am-4.00pm,-26.7015067,153.1293057
+78,MOUNTAIN CREEK,Queensland,"Mountain Creek Medical CentreCnr Golf Links Road & Mountain Creek RoadMountain Creek , QLD, 4557 Australia",754776671,4557,7:30 AM - 3:30 PM (Mon- Fri),-26.692888,153.092465
+79,BUDERIM,Queensland,"Ballinger Place Ballinger RdBuderim, QLD, 4556Australia",07 5456 2315,4556,(Mon-Fri) - 7.30am- 1.00pm,-26.68591,153.051354
+80,PALMWOODS,Queensland,"7 MARGARET STREET PALMWOODS, QLD",07 54573715,4555,7:30 AM - 12:30 PM (Mon- Fri),-26.6872991,152.9586242
+81,MAROOCHYDORE,Queensland,"Medicine on SecondPART 50 SECOND AVENUEMAROOCHYDORE, QLD, 4558 Australia",754436916,4558,7:30 AM - 5:30 PM(Mon- Fri),-26.658464,153.0939121
+82,MAROOCHYDORE (MAROOCHY WATERS),Queensland,"SHOP 2 MAROOCHY SHOP CTRD10 DENNA STREETMAROOCHYDORE, QLD, 4558 Australia",754794690,4558,7:00 AM - 12:30 PM and 1:30 PM - 3:30 PM (Mon- Fri),-26.6446089,153.0683427
+83,NAMBOUR,Queensland,"Nambour Heights Family PracticePART 121-123NAMBOUR-MAPLETON ROADNAMBOUR, QLD, 4560 Australia",07 54415191,4560,8:00 AM - 4 PM (Mon- Fri),-26.6224232,152.9410386
+84,NOOSAVILLE,Queensland,"Noosaville Seven Day Medical CentrePART OF SHOP 4,HOMEMAKER CTMARY STNOOSAVILLE, QLD, 4566 Australia",07 54734145,4566,7:30 PM - 1:00 PM and 1:30 PM - 5:30 PM (Mon- Fri),-26.4003694,153.0628997
+85,WOLLONGONG,New South Wales,"325 Crown St.Wollongong, NSW, Australia",0401 645 331,2500,8:00 AM -4:30 PM (Mon - Fri) 8:00 AM -12:00 PM (Sat),-34.4259202,150.8892446
+86,DAPTO,New South Wales,"Dapto Medical Centre33-35 Princess Hwy, DaptoNSW, 2530 Australia",4244 1081,2530,(Mon-Fri) – 8:30am – 5:00pm (Sat) – 8:30am – 12:00pm,-34.492751,150.795729
+87,OAK FLATS,New South Wales,"Shop 3, 73 Central Ave.Oak Flats, NSW, 2529 Australia",4257 1234,2529,(Mon - Fri)-07:30am-2:00pm (Sat) - 8:00am - 12:00pm,-34.5632716,150.8187247
+88,APPIN,New South Wales,"Shop 10143 Terralong St.,Kiama, NSW, 2533 Australia",4232 1122,2533,BY APPOINTMENT ONLY,-34.6668348,150.8501228
+89,ROSEMEADOW,New South Wales,"33 Fitzgibbon Lane,Rosemeadow, NSW, 2560 Australia",4621 3999,2560,8:30 AM - 5:30 PM (Mon - Fri) 8:30 AM -1:30 PM (Sat),-34.1017116,150.7979038
+90,ROSEMEADOW,New South Wales,"Shop 15ACnr Copperfield & Thomas Rose Drive,Rosemeadow, NSW, 2560 Australia",4628 6668,2560,(Mon – Fri) – 8:00am – 1:00pm (Sat) – 9:00am – 1:00pm,-34.1002159,150.7979458
+91,BERRY,New South Wales,"Shop 2, 78 Albert St, BerrySydney, NSW, 2535 Australia",0412 496 320,2535,(Mon-Fri) – 7:30am – 12:30pm,-34.7749556,150.6973128
+92,BRADBURY,New South Wales,"Shop 14A, 100 The Parkway, BradburyNSW, 2560 Australia",4626 5007,2560,(Mon-Fri) – 8:00am – 4:00pm (Sat) – 9:00am – 1:00pm,-34.0835344,150.8124998
+93,CAMPBELLTOWN,New South Wales,"242 Queen St, CampbelltownSydney, NSW, 2560 Australia",02 4625 5255,2560,(Mon-Fri) - 8.30am - 1.00pm (Sat) - 9.00am-1.00pm,-34.0683963,150.813114
+94,ENGADINE,New South Wales,"Engadine Medical CentreShop 1/1018-1024 Old Princess Hwy., Engadine Sydney",02 8007 6328,2233,(Mon-Fri) - 8:00am - 1:00pm (Sat) - 8:30am - 1:00pm,-34.064686,151.014651
+95,ENGADINE,New South Wales,"106 Caldarra Avenue, EngadineSydney, NSW, 2233 Australia",02 9520 8610,2233,"(Mon,Wed,Fri)-9:00am-1:00pm",-34.0637433,151.0155142
+96,SPRING FARM,New South Wales,"274 Richardson Rd,Spring Farm, NSW, 2570 Australia",8039 7448,2570,"(Mon,Wed)- 9:00am-1:00pm (Sat) - 9:00am - 1:00pm",-34.069207,150.7298457
+97,MOUNT ANNAN,New South Wales,"Ultra Care Medical Centre11-13 Main St,Mt Annan, NSW, 2567 Australia",4647 1666,2567,8:00 AM - 2:00 PM (Mon-Fri) 9:00 AM - 12:30 PM (Sat),-34.0482851,150.7587011
+98,MINTO,New South Wales,"Shop 1, 48 Ben Lomond Rd,Minto, NSW, 2566 Australia",9603 3211,2566,(Mon-Fri) – 8:30am – 4:30pm (Sat) – 9:00am – 1:00pm,-34.0318551,150.8485202
+99,HARRINGTON PARK,New South Wales,"Harrington Park Medical PracticeSuite 1, 23 Fairwater Dr, Harrington ParkNSW, 2567 Australia",4648 1666,2567,(Mon-Fri) – 8:30am-4:30pm (Sat) – 8:30am-1:00pm,-34.0284858,150.7339094
+100,SUTHERLAND,New South Wales,"Sutherland Medical Centre2/800 Old Princes Hwy,Sutherland, NSW, 2232 Australia",0414 134 573,2232,"8:00 AM - 4:00 PM (Mon & Fri) 8:00 AM – 1:00 PM (Tue, Wed, Thu) 9:00 AM - 1:00 PM (Sat)",-34.032401,151.057605
+101,CRONULLA,New South Wales,"Medclinic, 37 Cronulla St,Cronulla, NSW, 2230 Australia",9527 2000,2230,By Appointment Only,-34.0527353,151.1523958
+102,CASULA,New South Wales,"Casula Central Medical Centre633-639 Hume HighwayCASULA, NSW, 2170 AUSTRALIA",9601 3175,2170,(Mon-Fri)-8:30am - 2:00pm (Sat) - 8:00am - 12:30pm,-33.9551772,150.8919093
+103,PRESTONS,New South Wales,"Prestons Medical Centre1 Quaama Cres,Prestons, NSW, 2170 Australia",9826 6822,2170,(Mon-Fri) – 9:00am – 3:00pm (Sat) – 9:00am – 1:00pm,-33.949431,150.86216
+104,PRESTONS,New South Wales,"Prestons Medical Centre1 Quaama Cres,Prestons, NSW, 2170 Australia",9826 6822,2170,(Mon-Thu) - 9:00am-5:00pm (Fri) - 9:00am - 3:00pm (Sat) - 8:00am-1:00pm,-33.949431,150.86216
+105,PANANIA,New South Wales,"96 Anderson AvePANANIA, NSW, 2213 Australia",9773 8145,2213,BY APPOINTMENT ONLY,-33.9558614,150.9981873
+106,HURSTVILLE,New South Wales,"227 Forest Rd, HurstvilleSydney, NSW",9330 6700,2220,(Mon-Fri)- 8:00am-4:30pm (Sat)- 9:00am-2:00pm,-33.9670216,151.1026402
+107,HURSTVILLE,New South Wales,"279 Forest Rd, HurstvilleSydney, NSW, 2220 Australia",9585 9088,2220,(Mon-Sat) – 9:00am-1:00pm,-33.9662627,151.1010982
+108,HURSTVILLE,New South Wales,"Shop 1, 458-460 Forest RdHurstville, NSW, 2220 Australia",02 8206 8998,2220,08:00 AM - 12:00 PM (Mon-Fri),-33.9640917,151.0956964
+109,HURSTVILLE,New South Wales,"Hurstville Medical Practice1 Park Rd, HurstvilleSydney, NSW, 2220 Sydney",8090 3604,2220,(Mon-Fri) – 8:30am-4:30pm (Sat) – 8:30am-12:30pm,-33.966861,151.105761
+110,BRINGELLY,New South Wales,"Shop 3, Bringelly VillageCnr. The Northern & Greendale RoadsBringelly, NSW, 2556 Australia",4774 8888,2556,BY APPOINTMENT ONLY,-33.9398633,150.731727
+111,LIVERPOOL,New South Wales,"236 Macquarie St, Liverpool9602 8292",9602 8292,2170,(Mon – Fri) – 8:00am-1:00pm (Sat) – CLOSED,-33.923237,150.9239532
+112,LIVERPOOL,New South Wales,"94 Moore St, LiverpoolSydney, NSW, 2170 Australia",9602 8323,2170,(Mon-Fri) – 8:30am-4:00pm (Sat) – 8:30am – 1:00pm,-33.9226874,150.9230454
+113,BUSBY,New South Wales,"First Care MC Shop 1, Miller Shopping Centre103 Cartwright Ave, BusbyNSW, 2168 Australia",9826 7555,2168,(Mon-Fri) – 8:00am - 4:30pm (Sat) – 9:00am - 1:00pm,-33.9190578,150.884824
+114,LIVERPOOL,New South Wales,"My Health, Cnr. Elizabeth Drive & George St Sydney, NSW, 2170 Australia",9821 1533,2170,(Mon-Fri) – 9:00am-5:00pm (Sat) – 9:00am-1:00pm,-33.92018,150.92519
+115,ROCKDALE,New South Wales,"Bay Medical Centre520 Princess Hwy, Rockdale Sydney",9597 6655,2216,(Mon-Fri) -8:00am-4:30pm (Sat) – 8:00am-1:00pm,-33.9532019,151.1378946
+116,PUNCHBOWL,New South Wales,"Family Health CareLevel 1, Shop 26 Broadway Plaza, 1 The BroadwaySydney, NSW, 2196 Australia",02 8206 9095,2200,"8.30 AM - 12.30 PM (Monday, Wednesday & Saturday)",-33.9260439,151.0583539
+117,GREEN VALLEY,New South Wales,"166 Green Valley Rd, Green ValleyNSW, 2168 Australia",9826 7455,2168,(Mon-Fri) – 8:30am-1:00pm (Sat) – 8:30am-1:00pm,-33.9028298,150.8698202
+118,BANKSTOWN,New South Wales,"41 Rickard Rd, BankstownSydney, NSW, 2200 Australia",9708 3611,2200,(Mon-Fri) – 8:30am – 2:00pm (Sat) – 8:30am – 12:30pm,-33.9142056,151.0380055
+119,LAKEMBA,New South Wales,"Isra United Medical Centre116 Haldon St, Lakemba Sydney, NSW, 2195 Australia",9759 0947,2195,8:30 AM -4:30 PM (Mon-Fri) 9:00 AM - 1:00 PM (Sat),-33.9218457,151.0778556
+120,LAKEMBA,New South Wales,"Haldon St Medical Centre101-103 Haldon St Lakemba Sydney, NSW, 2195 Australia",97404044,2195,(Mon-Fri) – 8:30am-5:00pm (Sat) – 9:00am-1:00pm (Sun) – 9:00am-1:00pm,-33.9210045,151.0781513
+121,LAKEMBA,New South Wales,"96 Haldon St, Lakemba Sydney, NSW, 2195 Australia",9758 9848,2195,(Mon-Fri) – 9:00am-5:00pm (Sat) – 9:00am-1:00pm,-33.9212248,151.0774255
+122,CABRAMATTA,New South Wales,"1/35 John St.Cabramatta, NSW, 2166 Australia",9725 6614,2166,By Appointment Only,-33.8950419,150.9376657
+123,CABRAMATTA,New South Wales,"John St MCShop 1/117 John St, Cabramatta Sydney, NSW, 2166 Australia",9728 3082,2166,(Mon-Fri) – 9:00am-5:00pm (Sat) – 8:00am-1:00pm,-33.8950174,150.9340825
+124,ARNCLIFFE,New South Wales,"1-3 Queen StreetArncliffe, NSW, 2205 Australia",9597 3366,2205,(Mon-Fri) - 8:00am - 1:00pm,-33.9370183,151.1462049
+125,GREENACRE,New South Wales,"3/139-143 Waterloo Rd, Greenacre Sydney, NSW, 2190 Australia",9750 7406,2190,(Mon-Fri)-8:00am -3:00pm (Sat)-8:00am - 1:00pm,-33.9091263,151.0571408
+126,BONNYRIGG,New South Wales,"Shop 39ABonnyrigg Ave, Bonnyrigg Sydney, NSW, 2177 Australia",9823 0188,2177,8.30 AM - 4.30 PM (Monday to Friday) 8.30 AM-1.00 PM (Saturday),-33.8866591,150.8897743
+127,GREENACRE,New South Wales,"246 Waterloo Rd.Greenacre, NSW, 2190 Australia",9759 7196,2177,By Appointment Only,-33.9027924,151.057928
+128,CANLEY HEIGHTS,New South Wales,"Advance Health Medical Centre136 Torrens Street Canley Heights, NSW, 2166 Australia","9728 2431, 4173",2166,(Mon - Fri) - 8:30am - 12:30pm,-33.8845723,150.9239421
+129,CAMPSIE,New South Wales,"Campsie Family MC248 Beamish St, Campsie Sydney, NSW, 2194 Australia",02 9718 0633,2194,(Mon-Fri) – 8:30am - 6:30pm (Sat) – 9:00am – 5:00pm,-33.9128515,151.1038261
+130,CAMPSIE,New South Wales,"Blessed Health Care34 Anglo Rd, Campsie Sydney, NSW, 2194 Australia","9591 6843, Fax- 9591 6784",2194,9 AM - 1 PM (Monday- Friday),-33.912222,151.10194
+131,CAMPSIE,New South Wales,"56 Campsie St, Campsie Sydney, NSW, 2194 Australia",02 9789 4911,2194,(Mon-Fri) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm,-33.9109758,151.0989388
+132,EDENSOR PARK,New South Wales,"195 Edensor Rd, Edensor Park Sydney, NSW, 2176 Australia",02 9823 3111,2176,(Mon-Sat) – 8:00am – 1:00pm,-33.8762331,150.8787231
+133,CHESTER HILL,New South Wales,"Chester Hill Family Practice100 Waldron Rd, Chester Hill Sydney, NSW, 2162 Australia",02 9644 2180,2162,(Mon-Fri) – 8:00am-3:00pm (Sat) – 8:00am-12:30pm,-33.8831961,151.0029495
+134,CHULLORA,New South Wales,"Chullora Market PlaceShop 6/355 Waterloo Rd, Chullora Sydney, NSW, 2190 Australia",02 9642 3330,2190,(Mon-Fri) – 8:00am – 2:00pm (Sat) – 9:00am – 1:00pm,-33.8930485,151.0614528
+135,FAIRFIELD,New South Wales,"1/37 BARBARA STREETFAIRFIELD, NSW",9727 3362,2165,(Thu) - 9:00am - 12:00pm (Sat) - 9:00am - 12:00pm,-33.873134,150.9534016
+136,MARRICKVILLE,New South Wales,"322 Marrickville Rd, Marrickville Sydney, NSW, 2204 Australia",8095-8990,2204,(Mon-Fri) – 8:00am – 4:00pm (Sat) – 8:00am – 1:00pm,-33.9102235,151.1552925
+137,ROSEBERRY,New South Wales,"337A Gardeners Road,Roseberry, NSW, 2474 Australia",9669 3616,2474,"(Tue, Thu) – 8:30am – 1:00pm (Sat) – CLOSED",-33.9229154,151.2051266
+138,ASHFIELD,New South Wales,"36 Hercules StreetAshfield, NSW, 2131 Australia",9716 4198,2131,By Appointment Only,-33.8887191,151.1251778
+139,SMITHFIELD,New South Wales,"673 Horsley Drive,Smithfield, NSW, 2164 Australia",9757 6400,2164,8:30 AM -12:30 PM (Mon-Fri) 09:00 – 1:00 PM (Sat),-33.8528125,150.9401998
+140,ENMORE,New South Wales,"214 Enmore Road, Enmore Sydney, NSW",02 9519 4888,2042,(Mon-Fri) - 8:00am - 1:00pm,-33.8995389,151.1712571
+141,AUBURN,New South Wales,"2 Chiswick Road Sydney, NSW, 2144 Australia",,2144,"(Mon, Wed, Fri) - 9:00am - 1:00pm",-33.8615645,151.0303969
+142,LIDCOMBE,New South Wales,"1-3 Mary StreetLidcombe Sydney, NSW, 2141 Australia",9646 2004,2141,(Mon - Fri)-8:30am-1:00pm (Sat) - 8:00am - 12:30pm (Sun) - 8:30am - 12:30am,-33.8625548,151.0454618
+143,STRATHFIELD,New South Wales,"STRATHFIELD MEDICAL CENTRE60 THE BOULEVARDSTRATHFIELD, NSW, 2135 Australia 9995 7200",9995 7200,2135,"(Mon,Tue,Thu)-8:30am-12:30pm (Sat) - 8:30am- 12:00pm",-33.8731819,151.0943683
+144,HOMEBUSH WEST6,New South Wales,"Shop 11, 22-24 Henley Rd, Homebush West Sydney, NSW, 2140 Australia",8068 5052,2140,(Mon-Sat) – 8:00am – 1:00pm,-33.8667983,151.0697439
+145,BURWOOD,New South Wales,"Level 2, Shop 300100 Burwood Rd, Burwood Sydney, NSW, 2134 Australia",9744 3330,2141,(Mon-Fri)- 8:30am-1:30pm (Sat) – 8:30am – 2:00pm,-33.8746207,151.1057492
+146,LIDCOMBE,New South Wales,"Shop 1, 46-50 John St Sydney, NSW, 2141 Australia",9646 2828,2141,(Mon-Fri)- 8:30am-1:30pm (Sat) – 8:30am – 2:00pm,-33.8606881,151.0447944
+147,LIDCOMBE,New South Wales,"Shop 4, 46-50 John St.Lidcombe, NSW, 2141 Australia",8789 9008,2141,"(Mon,Wed,Fri)-8:00am-12:00pm",-33.8605747,151.0445697
+148,AUBURN,New South Wales,"Advance Medical Centre79 Auburn Road, Auburn Sydney, NSW, 2144 Australia",9649 6027,2144,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-1:00pm,-33.8530156,151.0324009
+149,AUBURN LAB,New South Wales,"3-5 Rawson Street, Auburn Sydney, NSW, 2217 Australia",8745 6500,2217,8:00 AM - 5:00 PM (Mon-Fri),-33.8516686,151.0380839
+150,AUBURN,New South Wales,"65 Rawson StreetAUBURN, NSW",9646 1917,2144,"9 AM-1 PM (Mon,Wed,Thu,Fri) 1:00 PM - 5:00 PM (Tue)",-33.8492783,151.0339238
+151,STRATHFIELD NORTH,New South Wales,"117-119 Queen St, Nth Strathfield",8757 3524,8757,"(Mon, Wed, Thu, Fri ONLY) – 8:30am – 12:30pm (Sat) 9.00am - 1.00pm",-33.8582594,151.0888997
+152,LIDCOMBE,New South Wales,"J Medical & Cosmetic CentreShop 1-112, 92 Parramatta RoadLidcombe, NSW, 2141 Australia",,2141,(Mon-Fri)– 9:00am-10:00pm (Sat) – 8:00am-6:00pm (Sun) – 1:00pm-6:00pm,-33.8494164,151.0488042
+153,LIDCOMBE,New South Wales,"Shop 38, 92 Parramatta RdLIDCOMBE, NSW, 2141 Australia",,2141,By Appointment Only,-33.849294,151.0487725
+154,FIVE DOCK,New South Wales,"1/126 Great North Rd.Five Dock, NSW, 2046 Australia",9713 4865,2046,By Appointment Only,-33.8666794,151.1302615
+155,GRANVILLE,New South Wales,"68 William Street, Granville NSW, 2142 Australia",9682 3722,2142,(Mon-Fri) - 8:00am-1:30pm (Sat) – 9:00am – 1:00pm,-33.836119,151.0102544
+156,GREYSTANES,New South Wales,"644 Merrylands Rd, Greystanes Sydney, NSW, 2145 Australia",8820 0215,2145,By Appointment Only,-33.8298239,150.9562882
+157,ULTIMO,New South Wales,"Ultimo Medical Practice82 Mountain St, Ultimo Sydney, NSW, 2007 Australia 9212 1400",9212 1400,2007,8:30 AM – 2:00 PM (Mon-Fri) 10:00 AM – 1:00 PM (Sat),-33.8836887,151.1965097
+158,GREYSTANES,New South Wales,"Shop 5, 6-10 Kippax St,Greystanes, NSW, 2145 Australia",9631 5900,2145,(Mon-Fri) – 9:00am-1:00pm (Sat) – 9:00am-12:00pm,-33.8140383,150.9376619
+159,SYDNEY CBD,New South Wales,"Level 2, 722 George St, Sydney, NSW, 2000 Australia",9281 7311,2000,9:00 AM – 1:00 PM (Tue & Sat Only),-33.874745,151.206738
+160,ROSEHILL,New South Wales,"12 Jordan Street Rosehill, NSW, 2142 Australia",,2142,(Wed) - 9:00am -12:00pm,-33.8264629,151.0164357
+161,SYDNEY CBD,New South Wales,"World Square, Shop 9 George St, Sydney",9777 0024,2000,(Mon-Fri) – 8:30am – 4:30pm (Sat) – 10:00am – 2:00pm,-33.8771813,151.2068788
+162,ROSEHILL,New South Wales,"12 Jordan Street Rosehill, NSW, 2142 Australia",,2142,(Wed) - 9:00am -12:00pm,-33.8264629,151.0164357
+163,SYDNEY CBD,New South Wales,"World Square, Shop 9 George St,Sydney",9777 0024,2000,(Mon-Fri) – 8:30am – 4:30pm (Sat) – 10:00am – 2:00pm,-33.8771813,151.2068788
+164,SYDNEY CBD 1 (HYDE PARK),New South Wales,"Ground Floor, 175 Liverpool St, Hyde ParkSydney, NSW, 2000 Australia",9283 1234,2000,(Mon-Fri) – 8:00am-6:00pm (Sat) – 10:00am-2:00pm (Sun) – 10:00am-2:00pm,-33.8770572,151.2108926
+165,SYDNEY CBD 1 (HYDE PARK),New South Wales,"Ground Floor, 175 Liverpool St, Hyde Park Sydney, NSW, 2000 Australia",9283 1234,2000,(Mon-Fri) – 8:00am-6:00pm (Sat) – 10:00am-2:00pm (Sun) – 10:00am-2:00pm,-33.8770572,151.2108926
+166,SYDNEY CBD,New South Wales,"242 Castlereagh St, Sydney",9268 0133,2000,(Mon-Fri) – 8:00am-5:00pm (Sat) – CLOSED,-33.8756404,151.2091933
+167,PYRMONT,New South Wales,"Shop 9, 45-55 Harris St, Pyrmont Sydney, NSW",9518 6869,2009,(Mon-Fri) – 8:30am-12:30pm,-33.8672433,151.1921455
+168,Sydney CBD,New South Wales,"MYHEALTHSHOP 8, 151 Castlereagh Street Sydney, NSW, 2000 Australia",8197 3388,2000,8:00 AM - 4:30 PM (Mon-Fri) 8:00 AM - 12:00 PM (Sat),-33.8719542,151.2090148
+169,DRUMMOYNE,New South Wales,"Level 2, 169 Victoria Rd, Drummoyne Sydney, NSW, 2047 Australia",02 9719 1977,2047,"(Mon-Fri) – 8:00am – 4:00pm (Sat, Sun) – CLOSED",-33.8521409,151.1552208
+170,SYDNEY CBD,New South Wales,"Medclinic1/60 Carrington Street Sydney, NSW, 2000 Australia",8937 03898937 0344,2000,BY APPOINTMENT ONLY,-33.867159,151.208794
+171,PARRAMATTA,New South Wales,"42 Macquarie St,Parramatta, NSW",9002 0777,2150,By Appointment Only,-33.8151596,151.0034447
+172,SYDNEY CBD,New South Wales,"92 Pitt Street Sydney, NSW",9235 0099,2000,By Appointment Only,-33.8671912,151.208819
+173,WESTMEAD,New South Wales,"3/74 Hawkesbury Rd Westmead, NSW, 2145 Australia",9633 9999,2145,9:00 AM - 1200 PM (Sats Only),-33.8123547,150.9853317
+174,THE ROCKS,New South Wales,"200 Cumberland St, The Rocks Sydney, NSW",9252 2200,2000,By Appointment Only,-33.8623896,151.2058865
+175,WENTWORTHVILLE SOUTH,New South Wales,"Aurora Medical Centre39 Old Prospect Road, Sth WentworthvilleSth Wentworthville, NSW",9631 3244,2145,8:00 AM - 4:00 PM (Mon-Fri),-33.8172248,150.9643816
+176,WESTMEAD,New South Wales,"160 Bridge St.Westmead, NSW",9891 4444,2145,"(Mon, Wed, Fri) – 8:30am – 1:00pm",-33.8062646,150.9794242
+177,PARRAMATTA,New South Wales,"Shop 2, 20 Victoria Rd,Parramatta, NSW",9762 1041,2150,(Mon-Fri) – 8:00am – 4:00pm (Sat) – 9:00am – 1:00pm,-33.8085197,151.0063705
+178,PENDLE HILL,New South Wales,"113A Pendle Way,Pendle Hill, NSW, 2145 Australia",9688 1724,2145,(Mon-Fri) – 8:30am – 12:30pm (Sat) – 9:00am – 12:30pm,-33.8025361,150.9557385
+179,RYDALMERE,New South Wales,"402 Victoria RdRydalmere, NSW, 2116 Australia",8661 0070,2116,(Mon-Fri) - 9:00am-1:00pm,-33.8122206,151.0428829
+180,PROSPECT,New South Wales,"Suite 1, 3 Aldgate St.Prospect, NSW, 2148 Australia",,2148,"(Tue,Thu) – 9:00am-1:00pm",-33.7993684,150.9259865
+181,ST. CLAIR,New South Wales,"162 Bennett RdSt. Clair, NSW, 2759 Australia",9670 5210,2759,"(Mon,Wed,Fri)-8:30am-12:30pm (Sat) - 8:30am - 12:30pm",-33.7953254,150.7904102
+182,TOP RYDE,New South Wales,"Top Health Medical Centre80-84 Blaxland Rd,Top Ryde, NSW, 2112 Australia",8964 8173,2112,(Mon-Fri) – 8:30am – 3:30pm (Sat) – 8:30am – 1:30pm,-33.8141501,151.1062286
+183,WEST RYDE,New South Wales,"West Ryde Marketplace Medical CentreShop 5/14 Anthony RdWest Ryde, NSW",9808 1998,2114,(Mon-Fri) – 8:00am-4:00pm (Sat) – 9:00am-1:00pm,-33.8064402,151.0886569
+184,COLYTON,New South Wales,"Shop 5, 62 Hewitt St.Colyton, NSW, 2760 Australia",9623 7756,2760,09:00 AM - 01:00 PM (Wed & Sat),-33.7859705,150.8001623
+185,BLACKTOWN,New South Wales,"74F Walters Rd, Blacktown Sydney, NSW, 2148 Australia",9831 8811,2148,By Appointment Only,-33.777988,150.894333
+186,SEVEN HILLS,New South Wales,"4/6 Orana Avenue,Seven Hills, NSW, 2147 Australia",9622 2839,2147,8:00 AM – 01:00 PM (Mon-Fri) 8:00 AM – 12:00 PM (Sat),-33.7763047,150.9233082
+187,ST. LEONARDS,New South Wales,"Medclinic, Suite 4, 6-16 Aitchison StreetST LEONARDS, NSW, 2065 Australia",9906 4446,2065,By Appointment Only,-33.8225996,151.1964494
+188,EASTWOOD,New South Wales,"Eastwood Village Medical Practice14/1 Lakeside Rd, Eastwood Sydney, NSW, 2122 Australia",02 9858 2277,2122,(Mon-Fri)- 8:30am- 3:30pm (Sat) – 7:00am – 1:00pm,-33.790276,151.080623
+189,LANE COVE,New South Wales,"Shop 1/90 Longueville Road, Lane Cove Sydney, NSW, 2066 Australia",9420 0222,2066,(Mon-Fri) – 8:00am-1:00pm (Sat) – 9:00am – 1:00pm,-33.8135045,151.1705296
+190,EASTWOOD,New South Wales,"2 Rowe St, Eastwood Sydney, NSW, 2122 Australia",02 9858 3877,2122,"(Mon, Fri) – 8:00am-3:00pm (Tue, Wed, Thu) – 8:00am – 1:00pm (Sat) – 8:00am-12:00pm",-33.7905065,151.0860652
+191,NEUTRAL BAY,New South Wales,"124 Military RdNeutral Bay, NSW, 2089 Australia",8319 8777,2089,(Mon-Fri) - 9:00am-1:00pm,-33.8309531,151.2206934
+192,BLACKTOWN,New South Wales,"MC Medical Centre42 Main Street, Blacktown Sydney, NSW, 2148 Australia",9676 1222,2148,(Fri ONLY) – 8:00am – 2:00pm,-33.769204,150.908079
+193,MOUNT DRUITT,New South Wales,"Greater West Medical Centre,Shop 84A, Westfield Shopping CentreMount Druitt, 2770 Australia",02 9625 841102 9625 8402,2770,"(Mon,Wed,Fri) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm",-33.767311,150.820001
+194,ST. MARY’S,New South Wales,"Mamre Rd Medical CentreUnit 1/370 Great Western Hwy,St. Mary’s, NSW, 2760 Australia",9833 8054,2760,"(Mon,Fri) – 8:00am-3:00pm (Tue,Wed,Thu) – 8:30am-3:30pm (Sat) – 9:00am-1:00pm",-33.7705639,150.77317
+195,ST. MARY’S,New South Wales,"65a Queen Street,St. Mary’s, NSW, 2760 Australia",9623 6191,2760,8:00 AM - 1:00 PM (Mon-Fri) 8:00 AM - 12:00 PM (Sat),-33.764242,150.7740522
+196,WHALEN,New South Wales,"63 Bulolo DriveWhalen, NSW, 2770 Australia",9675 1999,2770,By Appointment Only,-33.7544169,150.8096068
+197,CHATSWOOD,New South Wales,"409 Victoria Ave, Chatswood Sydney, NSW, 2067 Australia",02 9934 7688,2067,(Mon-Fri) – 8:30am – 5:00pm (Sat) – 9:00am – 1:00pm,-33.7956656,151.1836676
+198,WERRINGTON,New South Wales,"Shop 12/ 11 Dunheven Rd, Werrington3/74 Hawkesbury Rd,Westmead, NSW, 2747 Australia",9833 4463,2747,8:30 AM – 01:30 PM (Mon-Sat),-33.7464196,150.7406367
+199,PENRITH,New South Wales,"454-456 High StPenrith, NSW, 2750 Australia",4707 5934,2750,(Mon-Fri) - 9:00am-1:00pm,-33.7537289,150.6964323
+200,WEST PENNANT HILLS,New South Wales,"Thompson Corner Family Practice10 Castle Hill RoadWEST PENNANT HILLS, NSW, 2125 Australia",8411 2300,2125,By Appointment Only,-33.7476368,151.0497726
+201,QUAKERS HILL,New South Wales,"Shop 4, 15 Railway Rd,Quakers Hill, NSW, 2763 Australia",9626 6300,2763,(Mon-Thu)– 8:00am-6:00pm (Fri) – 8:00am-2:00pm (Sat) – 8:30am-2:00pm,-33.726651,150.8851015
+202,QUAKERS HILL,New South Wales,"4a Douglas RdQuakers Hil, NSW, 2763 Australia",9837 5200,2763,(Mon-Sat)-8:00am-12:00pm,-33.7264813,150.8847294
+203,QUAKERS HILL,New South Wales,"Shop 6, 206 Farnham Rd,Quakers Hill, NSW, 2763 Australia 9626 9734",9626 9734,2763,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-12:00pm,-33.7271873,150.904559
+204,KELLYVILLE,New South Wales,"Health Centre Point Medical & Dental3/90 Wrights Road Kellyville, NSW, 2155 Australia",8883 0800,2155,(Mon-Fri) – 8:00am-2:00pm (Sat) – 9:00am-1:00pm,-33.7134516,150.9718664
+205,TURRAMURRA,New South Wales,"TURRAMURRA FAMILY PRACTICEREAR 1273 PACIFIC HWYTURRAMURRA, NSW, 2074 AUSTRALIA",9144 4545,2074,8:00 AM - 12:00 PM (Mon- Fri),-33.7329374,151.1297836
+206,FRENCHS FOREST,New South Wales,"8 Hilmer StreetFrenchs Forest, NSW",9452 6065,2086,(Mon-Fri) – 8:00am-4:00pm (Sat) – 9:00am-1:00pm (Sun) – 8:00am-12:00pm,-33.7528379,151.2314071
+207,FRENCHS FOREST,New South Wales,"8 Hilmer StreetFrenchs Forest, NSW",9452 6065,2086,(Mon-Fri) – 8:00am-4:00pm (Sat) – 9:00am-1:00pm (Sun) – 8:00am-12:00pm,-33.7528379,151.2314071
+208,KELLYVILLE NORTH,New South Wales,"Shop 17, 12-14 Withers RdKellyville North, NSW, 2155 Australia",8213 7455,2155,(Mon-Thur)-9:00am-1:00pm,-33.685672,150.9521012
+209,HORNSBY,New South Wales,"Shop 9, 25-29 Hunter St, Hornsby NSW, 2077 Australia",94762320,2077,By Appointment Only,-33.7032866,151.1002883
+210,ROUSE HILL,New South Wales,"13/18 Adelphi St,Rouse Hill, NSW, 2155 Australia",8883 0045,2155,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-12:00pm,-33.6821638,150.9164575
+211,HORNSBY,New South Wales,"104 Balmoral St,Hornsby, NSW, 2077 Australia",8310 0452,2077,"(Mon,Fri) - 8.30am-12.30pm",-33.7023172,151.1105513
+212,ANNANGROVE,New South Wales,"Annangrove Medical Centre5/169 Annangrove RoadAnnangrove, NSW, 2156 AUSTRALIA",9679 1889,2156,By Appointment Only,-33.671111,150.9562348
+213,ASQUITH,New South Wales,"2 Royston Pde, Asquith Sydney, NSW, 2077 Australia",9476 6307,2077,By Appointment Only,-33.6878228,151.11036
+214,BLIGH PARK,New South Wales,"Shop 10, Bligh Park Shopping CentreBligh Park, NSW, 2756 Australia",4572 0230,2756,(Tues) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm,-33.634695,150.789788
+215,OAK FLATS,Sydney,"Shop 3, 73 Central Ave.Oak Flats, NSW, 2529 Australia",4257 1234,2529,(Mon - Fri)-07:30am-2:00pm (Sat) - 8:00am - 12:00pm,-34.5632716,150.8187247
+216,DAPTO,Sydney,"Dapto Medical Centre 33-35 Princess Hwy, Dapto NSW, 2530 Australia",4244 1081,2530,(Mon-Fri) – 8:30am – 5:00pm (Sat) – 8:30am – 12:00pm,-34.501667,150.78975
+218,APPIN,Sydney,"Shop 7, 77 Appin RdAppin, NSW, 2560 Australia 4631 2041",4631 2041,2560,(Mon-Fri) - 8:30am - 4:00pm,-34.19977,150.788078
+219,SPRING FARM,Sydney,"274 Richardson Rd,Spring Farm, NSW, 2570 Australia",8039 7448,2570,"(Mon,Wed)- 9:00am-1:00pm (Sat) - 9:00am - 1:00pm",-34.069207,150.7298457
+220,ROSEMEADOW,Sydney,"33 Fitzgibbon Lane,Rosemeadow, NSW, 2560 Australia",4621 3999,2560,8:30 AM - 5:30 PM (Mon - Fri) 8:30 AM -1:30 PM (Sat),-34.1017116,150.7979038
+221,ROSEMEADOW,Sydney,"Shop 15ACnr Copperfield & Thomas Rose Drive,Rosemeadow, NSW, 2560 Australia",4628 6668,2560,(Mon – Fri) – 8:00am – 1:00pm (Sat) – 9:00am – 1:00pm,-34.1011041,150.7994057
+222,HARRINGTON PARK,Sydney,"Harrington Park Medical PracticeSuite 1, 23 Fairwater Dr, Harrington ParkNSW, 2567 Australia",4648 1666,2567,(Mon-Fri) – 8:30am-4:30pm (Sat) – 8:30am-1:00pm,-34.0284858,150.7339094
+223,MOUNT ANNAN,Sydney,"Ultra Care Medical Centre11-13 Main St,Mt Annan, NSW, 2567 Australia",4647 1666,2567,8:00 AM - 2:00 PM (Mon-Fri) 9:00 AM - 12:30 PM (Sat),-34.0482851,150.7587011
+224,BRADBURY,Sydney,"Shop 14A, 100 The Parkway, Bradbury NSW, 2560 Australia",4626 5007,2560,(Mon-Fri) – 8:00am – 4:00pm (Sat) – 9:00am – 1:00pm,-34.0846565,150.8128997
+225,CAMPBELLTOWN,Sydney,"242 Queen St, Campbelltown Sydney, NSW, 2560 Australia",02 4625 5255,2560,(Mon-Fri) - 8.30am - 1.00pm (Sat) - 9.00am-1.00pm,-34.0683963,150.813114
+226,BRINGELLY,Sydney,"Shop 3, Bringelly VillageCnr. The Northern & Greendale RoadsBringelly, NSW, 2556 Australia",4774 8888,2556,By Appointment Only,-33.9402388,150.7313425
+227,MINTO,Sydney,"Shop 1, 48 Ben Lomond Rd,Minto, NSW, 2566 Australia",9603 3211,2566,(Mon-Fri) – 8:30am – 4:30pm (Sat) – 9:00am – 1:00pm,-34.0320608,150.8493274
+228,PRESTONS,New South Wales,"1 Yerona St,Prestons, NSW",9607 8588,2170,(Mon-Fri) – 9:00am – 3:00pm (Sat) – 9:00am – 1:00pm,-33.9523229,150.8629193
+229,PRESTONS,Sydney,"Prestons Medical Centre1 Quaama Cres,Prestons, NSW, 2170 Australia",9826 6822,2170,(Mon-Thu) - 9:00am-5:00pm (Fri) - 9:00am - 3:00pm (Sat) - 8:00am-1:00pm,-33.949431,150.86216
+230,ENGADINE,Sydney,"Engadine Medical CentreShop 1/1018-1024 Old Princess Hwy., Engadine Sydney, NSW, 2233 Australia",02 8007 6328,2233,(Mon-Fri) - 8:00am - 1:00pm (Sat) - 8:30am - 1:00pm,-34.064686,151.014651
+231,CASULA,Sydney,"Casula Central Medical Centre633-639 Hume Highway CASULA, NSW, 2170 AUSTRALIA",9601 3175,2170,(Mon-Fri)-8:30am - 2:00pm (Sat) - 8:00am - 12:30pm,-33.9551772,150.8919093
+232,ENGADINE,Sydney,"106 Caldarra Avenue, Engadine Sydney, NSW, 2233 Australia",02 9520 8610,2233,"(Mon,Wed,Fri)-9:00am-1:00pm",-34.0637433,151.0155142
+233,BUSBY,Sydney,"First Care MC Shop 1, Miller Shopping Centre103 Cartwright Ave, BusbyNSW, 2168 Australia",9826 7555,2168,(Mon-Fri) – 8:00am - 4:30pm (Sat) – 9:00am - 1:00pm,-33.9190578,150.884824
+234,GREEN VALLEY,"166 Green Valley Rd, Green Valle","166 Green Valley Rd, Green Valley NSW, 2168 Australia",9826 7455,2168,(Mon-Fri) – 8:30am-1:00pm (Sat) – 8:30am-1:00pm,-33.90286,150.869835
+235,LIVERPOOL,Sydney,"236 Macquarie St, Liverpool",9602 8292,2000,(Mon – Fri) – 8:00am-1:00pm (Sat) – CLOSED,-33.923237,150.9239532
+236,LIVERPOOL,Sydney,"My Health, Cnr. Elizabeth Drive & George St Sydney, NSW, 2170 Australia",9821 1533,2170,(Mon-Fri) – 9:00am-5:00pm (Sat) – 9:00am-1:00pm,-33.92018,150.92519
+237,BONNYRIGG,Sydney,"Shop 39ABonnyrigg Ave, Bonnyrigg Sydney, NSW, 2177 Australia",9823 0188,2177,8.30 AM - 4.30 PM (Monday to Friday) 8.30 AM-1.00 PM (Saturday),-33.8866591,150.8897743
+238,SUTHERLAND,Sydney,"Sutherland Medical Centre2/800 Old Princes Hwy,Sutherland, NSW, 2232 Australia",0414 134 573,2232,"8:00 AM - 4:00 PM (Mon & Fri) 8:00 AM – 1:00 PM (Tue, Wed, Thu) 9:00 AM - 1:00 PM (Sat)",-34.032401,151.057605
+239,EDENSOR PARK,Sydney,"195 Edensor Rd, Edensor Park Sydney, NSW, 2176 Australia",02 9823 3111,2176,(Mon-Sat) – 8:00am – 1:00pm,-33.8762331,150.8787231
+240,EDENSOR PARK,Sydney,"195 Edensor Rd, Edensor Park Sydney, NSW, 2176 Australia02 9823 3111",02 9823 3111,2176,(Mon-Sat) – 8:00am – 1:00pm,-33.8762331,150.8787231
+241,WERRINGTON,Sydney,"Shop 12/ 11 Dunheven Rd, Werrington3/74 Hawkesbury Rd,Westmead, NSW, 2747 Australia",9833 4463,2747,8:30 AM – 01:30 PM (Mon-Sat),-33.7463787,150.7399227
+242,ST. CLAIR,Sydney,"162 Bennett RdSt. Clair, NSW, 2759 Australia",9670 5210,2759,"(Mon,Wed,Fri)-8:30am-12:30pm (Sat) - 8:30am - 12:30pm",-33.7953254,150.7904102
+243,PANANIA,Sydney,"96 Anderson AvePANANIA, NSW, 2213 Australia",9773 8145,2231,By Appointment Only,-33.9558614,150.9981873
+244,CABRAMATTA,Sydney,"John St MCShop 1/117 John St, Cabramatta Sydney, NSW, 2166 Australia",9728 3082,2166,(Mon-Fri) – 9:00am-5:00pm (Sat) – 8:00am-1:00pm,-33.8950174,150.9340825
+245,CANLEY HEIGHTS,Advance Health Medical Centre136,"Advance Health Medical Centre136 Torrens Street Canley Heights, NSW, 2166 Australia","9728 2431, 4173",2166,(Mon - Fri) - 8:30am - 12:30pm,-33.8845723,150.9239421
+246,CABRAMATTA,Sydney,"1/35 John St.Cabramatta, NSW, 2166 Australia",9725 6614,2166,By Appointment Only,-33.8950419,150.9376657
+247,ST. MARY’S,Sydney,"Mamre Rd Medical CentreUnit 1/370 Great Western Hwy,St. Mary’s, NSW, 2760 Australia",9833 8054,2760,"(Mon,Fri) – 8:00am-3:00pm (Tue,Wed,Thu) – 8:30am-3:30pm (Sat) – 9:00am-1:00pm",-33.7705639,150.77317
+248,COLYTON,Sydney,"Shop 5, 62 Hewitt St.Colyton, NSW, 2760 Australia",9623 7756,2760,09:00 AM - 01:00 PM (Wed & Sat),-33.7859889,150.8004219
+249,ST. MARY’S,Sydney,"65a Queen Street,St. Mary’s, NSW, 2760 Australia",9623 6191,2760,8:00 AM - 1:00 PM (Mon-Fri) 8:00 AM - 12:00 PM (Sat),-33.764242,150.7740522
+250,CRONULLA,Sydney,"Medclinic, 37 Cronulla St,Cronulla, NSW, 2230 Australia",9527 2000,2230,By Appointment Only,-34.0527353,151.1523958
+251,FAIRFIELD,Sydney,"1/37 BARBARA STREETFAIRFIELD, NSW",9727 3362,2165,(Thu) - 9:00am - 12:00pm (Sat) - 9:00am - 12:00pm,-33.873134,150.9534016
+252,MOUNT DRUITT,Sydney,"Greater West Medical Centre,Shop 84A, Westfield Shopping CentreMount Druitt, 2770 Australia",02 9625 8411/ 02 9625 8402,2770,"(Mon,Wed,Fri) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm",-33.767311,150.820001
+253,SMITHFIELD,Sydney,"673 Horsley Drive,Smithfield, NSW, 2164 Australia",9757 6400,2164,8:30 AM -12:30 PM (Mon-Fri) 09:00 – 1:00 PM (Sat),-33.8528125,150.9401998
+254,WHALEN,Sydney,"63 Bulolo Drive Whalen, NSW, 2770 Australia",9675 1999,2770,By Appointment Only,-33.7544169,150.8096068
+255,BANKSTOWN,Sydney,"Med ClinicShop MM.014 Bankstown Central BANKSTOWN, NSW, 2200 AUSTRALIA",8760 8404,2200,(Mon-Fri)-8:30am-3:00pm,-33.9171912,151.035446
+256,BANKSTOWN,Sydney,"41 Rickard Rd, Bankstown Sydney, NSW, 2200 Australia",9708 3611,2200,(Mon-Fri) – 8:30am – 2:00pm (Sat) – 8:30am – 12:30pm,-33.9142056,151.0380055
+257,CHESTER HILL,Sydney,"Chester Hill Family Practice100 Waldron Rd, Chester Hill Sydney, NSW, 2162 Australia",02 9644 2180,2162,(Mon-Fri) – 8:00am-3:00pm (Sat) – 8:00am-12:30pm,-33.8831961,151.0029495
+258,HURSTVILLE,Sydney,"Shop 1, 458-460 Forest Rd Hurstville, NSW, 2220 Australia",02 8206 8998,2220,08:00 AM - 12:00 PM (Mon-Fri),-33.9640917,151.0956964
+259,GREYSTANES,Sydney,"Shop 5, 6-10 Kippax St,Greystanes, NSW, 2145 Australia",9631 5900,2145,(Mon-Fri) – 9:00am-1:00pm (Sat) – 9:00am-12:00pm,-33.8275656,150.937941
+260,HURSTVILLE,Sydney,"279 Forest Rd, Hurstville Sydney, NSW, 2220 Australia",9585 9088,2220,(Mon-Fri)- 8:00am-4:30pm (Sat)- 9:00am-2:00pm,-33.9662627,151.1010982
+261,PUNCHBOWL,Sydney,"Family Health CareLevel 1, Shop 26 Broadway Plaza, 1 The Broadway Sydney, NSW, 2196 Australia",02 8206 9095,2196,"8.30 AM - 12.30 PM (Monday, Wednesday & Saturday)",-33.9258614,151.0580922
+262,HURSTVILLE,Sydney,"Hurstville Medical Practice1 Park Rd, Hurstville Sydney, NSW, 2220 Sydney",8090 3604,2220,(Mon-Fri) – 8:30am-4:30pm (Sat) – 8:30am-12:30pm,-33.966861,151.105761
+263,GREYSTANES,Sydney,"644 Merrylands Rd, Greystanes Sydney, NSW, 2145 Australia",8820 0215,2145,By Appointment Only,-33.8298568,150.9562888
+264,BLACKTOWN,Sydney,"74F Walters Rd, Blacktown Sydney, NSW, 2148 Australia",9831 8811,2148,By Appointment Only,-33.777988,150.894333
+265,GREENACRE,Sydney,"3/139-143 Waterloo Rd, Greenacre Sydney, NSW, 2190 Australia",9750 7406,2190,(Mon-Fri)-8:00am -3:00pm (Sat)-8:00am - 1:00pm,-33.9091263,151.0571408
+266,PROSPECT,Sydney,"Suite 1, 3 Aldgate St.Prospect, NSW, 2148 Australia",,2148,"(Tue,Thu) – 9:00am-1:00pm",-33.7993684,150.9259865
+267,LAKEMBA,Sydney,"Isra United Medical Centre116 Haldon St, Lakemba Sydney, NSW, 2195 Australia",9759 0947,2195,8:30 AM -4:30 PM (Mon-Fri) 9:00 AM - 1:00 PM (Sat),-33.9218457,151.0778556
+268,LAKEMBA,Sydney,"96 Haldon St, Lakemba Sydney, NSW, 2195 Australia",9758 9848,2195,(Mon-Fri) – 9:00am-5:00pm (Sat) – 9:00am-1:00pm,-33.9212248,151.0774255
+269,LAKEMBA,Sydney,"Haldon St Medical Centre101-103 Haldon St Lakemba Sydney, NSW, 2195 Australia",97404044,2195,(Mon-Fri) – 8:30am-5:00pm (Sat) – 9:00am-1:00pm (Sun) – 9:00am-1:00pm,-33.9210045,151.0781513
+270,GREENACRE,Sydney,"246 Waterloo Rd.Greenacre, NSW, 2190 Australia",9759 7196,2190,By Appointment Only,-33.9027924,151.057928
+271,CHULLORA,Sydney,"Chullora Market PlaceShop 6/355 Waterloo Rd, Chullora Sydney, NSW, 2190 Australia",02 9642 3330,2190,(Mon-Fri) – 8:00am – 2:00pm (Sat) – 9:00am – 1:00pm,-33.892587,151.0610273
+272,BLACKTOWN,Sydney,"MC Medical Centre42 Main Street, Blacktown Sydney, NSW, 2148 Australia",9676 1222,2148,(Fri ONLY) – 8:00am – 2:00pm,-33.769204,150.908079
+273,PENDLE HILL,Sydney,"113A Pendle Way,Pendle Hill, NSW, 2145 Australia",9688 1724,2145,(Mon-Fri) – 8:30am – 12:30pm (Sat) – 9:00am – 12:30pm,-33.8025361,150.9557385
+274,SEVEN HILLS,Sydney,"4/6 Orana Avenue,Seven Hills, NSW, 2147 Australia",9622 2839,2147,8:00 AM – 01:00 PM (Mon-Fri) 8:00 AM – 12:00 PM (Sat),-33.7763047,150.9233082
+275,AUBURN,Sydney,"2 Chiswick Road Sydney, NSW, 2144 Australia",,2144,"(Mon, Wed, Fri) - 9:00am - 1:00pm",-33.8615645,151.0303969
+276,MARAYONG,Sydney,"31 Davis Road Marayong, NSW, 2148 Australia",9676 0666,2148,"(Mon,Wed,Fri)– 8:00am-12:00pm (Sat) – 9:00am-1:00pm",-33.7557756,150.8968451
+277,WENTWORTHVILLE SOUTH,Sydney,"Aurora Medical Centre39 Old Prospect Road, Sth WentworthvilleSth Wentworthville, NSW",9631 3244,2145,8:00 AM - 4:00 PM (Mon-Fri),-33.8172248,150.9643816
+278,GRANVILLE,Sydney,"68 William Street, Granville NSW, 2142 Australia",9682 3722,2142,(Mon-Fri) - 8:00am-1:30pm (Sat) – 9:00am – 1:00pm,-33.836119,151.0102544
+279,CAMPSIE,Sydney,"56 Campsie St, Campsie Sydney, NSW, 2194 Australia",02 9789 4911,2194,(Mon-Fri) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm,-33.9109758,151.0989388
+280,AUBURN,Sydney,"Advance Medical Centre79 Auburn Road, Auburn Sydney, NSW, 2144 Australia",9649 6027,2144,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-1:00pm,-33.8530156,151.0324009
+281,CAMPSIE,Sydney,"Blessed Health Care34 Anglo Rd, Campsie Sydney, NSW, 2194 Australia","9591 6843, Fax- 9591 6784",2194,9 AM - 1 PM (Monday- Friday),-33.912222,151.10194
+282,LIDCOMBE,Sydney,"1-3 Mary StreetLidcombe Sydney, NSW, 2141 Australia",9646 2004,2141,(Mon - Fri)-8:30am-1:00pm (Sat) - 8:00am - 12:30pm (Sun) - 8:30am - 12:30am,-33.8625548,151.0454618
+283,CAMPSIE,Sydney,"Campsie Family MC248 Beamish St, Campsie Sydney, NSW, 2194 Australia",02 9718 0633,2194,(Mon-Fri) – 8:30am - 6:30pm (Sat) – 9:00am – 5:00pm,-33.9128515,151.1038261
+284,WESTMEAD,Sydney,"3/74 Hawkesbury Rd Westmead, NSW, 2145 Australia",9633 9999,2145,9:00 AM - 1200 PM (Sats Only),-33.8123547,150.9853317
+285,LIDCOMBE,Sydney,"Shop 1, 46-50 John St Sydney, NSW, 2141Australia",9646 2828,2141,(Mon-Fri)- 8:30am-1:30pm (Sat) – 8:30am – 2:00pm,-33.8510495,151.0495617
+286,LIDCOMBE,Sydney,"Shop 4, 46-50 John St.Lidcombe, NSW, 2141 Australia",8789 9008,2141,"(Mon,Wed,Fri)-8:00am-12:00pm",-33.8605747,151.0445697
+287,WESTMEAD,Sydney,"160 Bridge St.Westmead, NSW",9891 4444,2145,"(Mon, Wed, Fri) – 8:30am – 1:00pm",-33.8062646,150.9794242
+288,AUBURN LAB,Sydney,"3-5 Rawson Street, Auburn Sydney, NSW, 2217 Australia",8745 6500,2217,8:00 AM - 5:00 PM (Mon-Fri),-33.85168,151.0381018
+289,AUBURN,Sydney,"65 Rawson Street AUBURN, NSW",9646 1917,2144,"9 AM-1 PM (Mon,Wed,Thu,Fri) 1:00 PM - 5:00 PM (Tue)",-33.8492783,151.0339238
+290,QUAKERS HILL,Sydney,"Shop 4, 15 Railway Rd,Quakers Hill, NSW, 2763 Australia",9626 6300,2763,(Mon-Thu)– 8:00am-6:00pm (Fri) – 8:00am-2:00pm (Sat) – 8:30am-2:00pm,-33.726651,150.8851015
+291,QUAKERS HILL,Sydney,"4a Douglas RdQuakers Hil, NSW, 2763 Australia",9837 5200,2763,(Mon-Sat)-8:00am-12:00pm,-33.7264813,150.8847294
+292,ROSEHILL,Sydney,"12 Jordan Street Rosehill, NSW, 2142 Australia",,2142,(Wed) - 9:00am -12:00pm,-33.8264629,151.0164357
+293,PARRAMATTA,Sydney,"42 Macquarie St,Parramatta, NSW",9002 0777,2150,By Appointment Only,-33.8151596,151.0034447
+294,LIDCOMBE,Sydney,"J Medical & Cosmetic Centre Shop 1-112, 92 Parramatta RoadLidcombe, NSW, 2141 Australia",,2141,(Mon-Fri)– 9:00am-10:00pm (Sat) – 8:00am-6:00pm (Sun) – 1:00pm-6:00pm,-33.8494164,151.0488042
+295,LIDCOMBE,Sydney,"Shop 38, 92 Parramatta RdLIDCOMBE, NSW, 2141 Australia",,2141,By Appointment Only,-33.849294,151.0487725
+296,HOMEBUSH WEST,Sydney,"Shop 11, 22-24 Henley Rd, Homebush West Sydney, NSW, 2140 Australia",8068 5052,2140,(Mon-Sat) – 8:00am – 1:00pm,-33.8667983,151.0697439
+297,PARRAMATTA,Sydney,"Shop 2, 20 Victoria Rd,Parramatta, NSW",9762 1041,2150,(Mon-Fri) – 8:00am – 4:00pm (Sat) – 9:00am – 1:00pm,-33.8085197,151.0063705
+298,QUAKERS HILL,Sydney,"Shop 6, 206 Farnham Rd,Quakers Hill, NSW, 2763 Australia",9626 9734,2763,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-12:00pm,-33.7271873,150.904559
+299,STRATHFIELD,Sydney,"STRATHFIELD MEDICAL CENTRE60 THE BOULEVARDSTRATHFIELD, NSW, 2135 Australia","Directions(Mon,Tue,Thu)-8:30am-12:30pm (Sat) - 8:30am- 12:00pm",2135,"(Mon,Tue,Thu)-8:30am-12:30pm (Sat) - 8:30am- 12:00pm",-33.8731819,151.0943683
+300,BURWOOD,Sydney,"Level 2, Shop 300100 Burwood Rd, Burwood Sydney, NSW, 2134 Australia",9744 3330,2134,(Sat) - 8:00am - 1:00pm,-33.874587,151.104557
+301,BLIGH PARK,Sydney,"Shop 10, Bligh Park Shopping CentreBligh Park, NSW, 2756 Australia",4572 0230,2756,(Tues) – 9:00am-1:00pm (Sat) – 9:00am-1:00pm,-33.634695,150.789788
+302,STRATHFIELD NORTH,Sydney,"117-119 Queen St, Nth Strathfield",8757 3524,2000,"(Mon, Wed, Thu, Fri ONLY) – 8:30am – 12:30pm (Sat) 9.00am - 1.00pm",-33.8582594,151.0888997
+303,ASHFIELD,Sydney,"36 Hercules Street Ashfield, NSW, 2131 Australia",9716 4198,2131,By Appointment Only,-33.8887191,151.1251778
+304,RYDALMERE,Sydney,"402 Victoria RdRy dalmere, NSW, 2116 Australia",8661 0070,2116,(Mon-Fri) - 9:00am-1:00pm,-33.8122206,151.0428829
+305,FIVE DOCK,Sydney,"1/126 Great North Rd.Five Dock, NSW, 2046 Australia",9713 4865,2046,By Appointment Only,-33.8666794,151.1302615
+306,ROUSE HILL,Sydney,"13/18 Adelphi St,Rouse Hill, NSW, 2155 Australia",8883 0045,2155,(Mon-Fri) – 8:00am-4:00pm (Sat) – 8:00am-12:00pm,-33.6821638,150.9164575
+307,KELLYVILLE,Sydney,"Health Centre Point Medical & Dental3/90 Wrights Road Kellyville, NSW, 2155 Australia",8883 0800,2155,(Mon-Fri) – 8:00am-2:00pm (Sat) – 9:00am-1:00pm,-33.7134516,150.9718664
+308,WEST RYDE,Sydney,"West Ryde Marketplace Medical Centre Shop 5/14 Anthony RdWest Ryde, NSW",9808 1998,2114,(Mon-Fri) – 8:00am-4:00pm (Sat) – 9:00am-1:00pm,-33.8064402,151.0886569
+309,TOP RYDE,Sydney,"Top Health Medical Centre80-84 Blaxland Rd,Top Ryde, NSW, 2112 Australia",8964 8173,2112,(Mon-Fri) – 8:30am – 3:30pm (Sat) – 8:30am – 1:30pm,-33.8141501,151.1062286
+310,EASTWOOD,Sydney,"Eastwood Village Medical Practice14/1 Lakeside Rd, Eastwood Sydney, NSW, 2122 Australia",02 9858 2277,2122,(Mon-Fri)- 8:30am- 3:30pm (Sat) – 7:00am – 1:00pm,-33.790276,151.080623
+311,DRUMMOYNE,Sydney,"Level 2, 169 Victoria Rd, Drummoyne Sydney, NSW, 2047 Australia",02 9719 1977,2047,"(Mon-Fri) – 8:00am – 4:00pm (Sat, Sun) – CLOSED",-33.8521409,151.1552208
+312,EASTWOOD,Sydney,"2 Rowe St, Eastwood Sydney, NSW, 2122 Australia",02 9858 3877,2122,"(Mon, Fri) – 8:00am-3:00pm (Tue, Wed, Thu) – 8:00am – 1:00pm (Sat) – 8:00am-12:00pm",-33.7905065,151.0860652
+313,KELLYVILLE NORTH,Sydney,"Shop 17, 12-14 Withers RdKellyville North, NSW, 2155 Australia",8213 7455,2155,(Mon-Thur)-9:00am-1:00pm,-33.685672,150.9521012
+314,ULTIMO,Sydney,"Ultimo Medical Practice82 Mountain St, Ultimo Sydney, NSW, 2007 Australia",9212 1400,2007,8:30 AM – 2:00 PM (Mon-Fri) 10:00 AM – 1:00 PM (Sat),-33.8836887,151.1965097
+315,WEST PENNANT HILLS,Sydney,"Thompson Corner Family Practice10 Castle Hill Road WEST PENNANT HILLS, NSW, 2125 Australia",8411 2300,2125,By Appointment Only,-33.7476368,151.0497726
+316,PYRMONT,Sydney,"Shop 9, 45-55 Harris St, Pyrmont Sydney, NSW",9518 6869,2009,(Mon-Fri) – 8:30am-12:30pm,-33.8672433,151.1921455
+317,ANNANGROVE,Sydney,"Annangrove Medical Centre5/169 Annangrove Road Annangrove, NSW, 2156 AUSTRALIA",9679 1889,2156,By Appointment Only,-33.671111,150.9562348
+318,SYDNEY CBD,Sydney,"242 Castlereagh St, Sydney",9268 0133,2000,(Mon-Fri) – 8:00am-5:00pm (Sat) – CLOSED,-33.8756404,151.2091933
+319,LANE COVE,Sydney,"Shop 1/90 Longueville Road, Lane Cove Sydney, NSW, 2066 Australia",9420 0222,2066,(Mon-Fri) – 8:00am-1:00pm (Sat) – 9:00am – 1:00pm,-33.8135045,151.1705296
+320,ST. LEONARDS,Sydney,"Medclinic, Suite 4, 6-16 Aitchison StreetST LEONARDS, NSW, 2065 Australia",9906 4446,2065,By Appointment Only,-33.8225996,151.1964494
+321,NEUTRAL BAY,Sydney,"124 Military RdNeutral Bay, NSW, 2089 Australia",8319 8777,2089,(Mon-Fri) - 9:00am-1:00pm,-33.8309531,151.2206934
+322,CHATSWOOD,Sydney,"409 Victoria Ave, Chatswood Sydney, NSW, 2067 Australia",02 9934 7688,2067,(Mon-Fri) – 8:30am – 5:00pm (Sat) – 9:00am – 1:00pm,-33.7956656,151.1836676
+323,TURRAMURRA,Sydney,"TURRAMURRA FAMILY PRACTICEREAR 1273 PACIFIC HWYTURRAMURRA, NSW, 2074 AUSTRALIA",9144 4545,2074,8:00 AM - 12:00 PM (Mon- Fri),-33.7329374,151.1297836
+324,HORNSBY,Sydney,"Shop 9, 25-29 Hunter St, Hornsby NSW, 2077 Australia",94762320,2077,By Appointment Only,-33.7032866,151.1002883
+325,HORNSBY,Sydney,"104 Balmoral St,Hornsby, NSW, 2077 Australia",8310 0452,2077,"(Mon,Fri) - 8.30am-12.30pm",-33.7023172,151.1105513
+326,ASQUITH,Sydney,"2 Royston Pde, Asquith Sydney, NSW, 2077 Australia",9476 6307,2077,By Appointment Only,-33.6878228,151.11036
+327,FRENCHS FOREST,Sydney,"8 Hilmer Street Frenchs Forest, NSW",9452 6065,2086,(Mon-Fri) – 8:00am-4:00pm (Sat) – 9:00am-1:00pm (Sun) – 8:00am-12:00pm,-33.7528379,151.2314071
