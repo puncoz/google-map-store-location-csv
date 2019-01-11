@@ -5,44 +5,384 @@
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
   <title>Creating a Store Locator on Google Maps</title>
   <style>
+
+    @import url('https://fonts.googleapis.com/css?family=Muli:400,700');
+
+    *, *:before, *:after {
+      box-sizing: border-box;
+    }  
+
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Muli', sans-serif;
+    }
     /* Always set the map height explicitly to define the size of the div
     * element that contains the map. */
-    #map {
-      height: 100%;
-    }
     /* Optional: Makes the sample page fill the window. */
     html, body {
       height: 100%;
       margin: 0;
       padding: 0;
     }
+
+    #map {
+      width: 100%;
+      height: 500px !important;
+      position: relative;
+      overflow: hidden;
+    }
+
+    @media only screen and (min-width: 768px) {
+      #map {
+        height: 100%;
+        flex: 1;
+      }
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .address-list-wrap {
+      width: 100%;
+      height: auto;
+      z-index: 1;
+      background: #e6e6e6;
+    }
+
+    @media only screen and (min-width: 768px) {
+      .address-list-wrap {
+        width: 300px;
+        height: 100%;
+        box-shadow: 1px 10px 20px 2px #c2c2c2;
+      }
+    }
+
+    .list-wrap {
+      height: 250px;
+      overflow-y: scroll;
+    }
+
+    @media only screen and (min-width: 768px) {
+      .list-wrap {
+        height: calc(100% - 40px);
+        overflow-y: scroll;
+      }
+    }
+
+    @media only screen and (min-width: 768px) {
+      .flex {
+        display: flex;
+      }
+    }
+
+    .wrapper {
+      background: #b3dfff;
+      height: 100%;
+    }
+
+    @media only screen and (min-width: 768px) {
+      .wrapper {
+        height: calc(100vh - 70px);
+      }
+    }
+
+    .filter-wrap {
+      padding: 15px;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: column;
+      align-items: flex-end;
+      justify-content: center;
+    }
+
+    .filter-wrap > div {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+
+    .filter-wrap > div:last-child {
+      margin-bottom: 0;
+    }
+
+    @media only screen and (min-width: 768px) {
+      .filter-wrap > div {
+        width: auto;
+        margin-bottom: 0;
+      }
+
+      .filter-wrap {
+        justify-content: initial;
+        flex-direction: row;
+      }
+    }
+
+    #addressInput, #resetButton {
+      padding: 8px 16px;
+      margin: 0;
+      outline: none;
+      font-size: 14px;
+      margin-right: 15px;
+      background: transparent;
+      height: 40px;
+      font-weight: 100;
+      border-radius: 4px;
+    }
+
+    #addressInput {
+      border: 1px solid #ccc;
+      background: #fff;
+      width: 100%;
+    }
+
+    @media only screen and (min-width: 768px) {
+      #addressInput {
+        width: 400px;
+      }
+    }
+
+    #resetButton {
+      background: #5167A6;
+      padding: 8px 15px;
+      color: #ffffff;
+      border-color: transparent;
+      cursor: pointer;
+    }
+
+    #resetButton:hover {
+      background: #303c61;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    .list-wrap {
+      padding: 15px;
+    }
+
+    .name {
+      font-size: 15px;
+      font-weight: bold;
+      margin-bottom: 5px;
+    }
+
+    .address {
+      background: transparent url(./image/ic_placeholder.svg) no-repeat left top 2px;
+      background-size: 13px;
+      padding-left: 20px;
+    }
+
+    .telephone {
+      background: transparent url(./image/ic_telephone.svg) no-repeat left top 2px;
+      background-size: 13px;
+      padding-left: 20px;
+    }
+
+    .direction {
+      background: transparent url(./image/ic_get-direction.svg) no-repeat left top 2px;
+      background-size: 13px;
+      padding-left: 20px;
+    }
+
+    .time {
+      background: transparent url(../image/ic_time.svg) no-repeat left top 2px;
+      background-size: 13px;
+      padding-left: 20px;
+    }
+
+    .list-details {
+      cursor: pointer;
+      border: 2px solid transparent;
+      margin: 2px 0;
+      padding: 8px;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .list-details:hover {
+      border-color: #8297d2;
+      background: #f1f5ff;
+      transition: all 0.3s ease-in-out;
+    }
+
+    .list-marker .list-content > div {
+      margin-bottom: 10px;
+    }
+
+    .list-marker .list-content > div:last-child {
+      margin-bottom: 0;
+    }
+
+    .list-marker:not(:first-child) {
+      border-top: 1px solid #d0cfcf;
+      margin-top: 10px;
+      padding-top: 10px;
+    }
+
+    .list-marker a {
+      display: inline-block;
+      color: #2f52b8;
+    }
+
+    .marker-detail {
+      font-weight: 400;
+    }
+
+    .marker-detail .title {
+      font-size: 15px;
+      font-weight: bold;
+      margin: 0 0 5px;
+    }
+
+    .marker-detail .city {
+      display: block;
+      font-size: 13px;
+      font-weight: 400;
+      margin-bottom: 10px;
+    }
+
+    .marker-detail .address {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .marker-detail .tel {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .marker-detail .time {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    .marker-detail .direction {
+      display: inline-block;
+    }
+
+    .marker-detail a {
+      text-decoration: none;
+      display: inline-block;
+      margin-bottom: 5px;
+    }
+
+    .spinner {
+      width: 30px;
+      height: 30px;
+      margin: 0 auto;
+      position: relative;
+      top: 50px;
+      border: 3px solid rgb(190, 190, 190);
+      border-top-color: #5167A6;
+      border-radius: 50%;
+      animation: rotation .8s ease infinite;
+    }
+
+    @-webkit-keyframes rotation {
+      from {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg);
+      }
+      to {
+        -webkit-transform: rotate(360deg);
+                transform: rotate(360deg);
+      }
+    }
+
+    .radius-select {
+      position: relative;
+      display: inline-block;
+    }
+
+    .select__arrow {
+      position: absolute;
+      top: 18px;
+      right: 30px;
+      width: 0;
+      height: 0;
+      pointer-events: none;
+      border-style: solid;
+      border-width: 6px 4px 0 4px;
+      border-color: #5167A6 transparent transparent transparent;
+    }
+
+    #radiusSelect {
+      font-size: 14px;
+      height: 40px;
+      margin-right: 15px;
+      display: inline-block;
+      font-weight: 100;
+      padding: 10px 30px 10px 15px;
+      cursor: pointer;
+      outline: 0;
+      border: 0;
+      border-radius: 4px;
+      background: #fff;
+      color: #7f7f7f;
+      border: 1px solid #ccc;
+      appearance: none;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      width: 100%;
+    }
+
+    @media only screen and (min-width: 768px) {
+      #radiusSelect {
+        width: auto;
+      }
+    }
+
+    label {
+      display: block;
+      margin-bottom: 4px;
+      font-weight: 700;
+      font-size: 14px;
+      color: #5b72af;
+    }
+
   </style>
 </head>
-<body style="margin:0px; padding:0px;" onload="initMap()">
-  <div>
-    <label for="raddressInput">Search location:</label>
-    <input type="text" id="addressInput" size="15"/>
-    <label for="radiusSelect">Radius:</label>
-    <select id="radiusSelect" label="Radius">
-      <option value="50" selected>50 kms</option>
-      <option value="30">30 kms</option>
-      <option value="20">20 kms</option>
-      <option value="10">10 kms</option>
-      <option value="5">5 kms</option>
-    </select>
-    
-    <input type="button" id="resetButton" value="Reset"/>
+<body>
+  <div class="filter-wrap">
+    <div class="search-input">
+      <input type="text" id="addressInput" placeholder="Search Collection Centers" size="15" />
+    </div>
+    <div class="radius-select">
+      <select id="radiusSelect" label="Radius" style="margin-right: 15px;">
+        <option value="5">5 kms</option>
+        <option value="10">10 kms</option>
+        <option value="20">20 kms</option>
+        <option value="30">30 kms</option>
+        <option value="50">50 kms</option>
+      </select>
+      <div class="select__arrow"></div>
+    </div>
+    <div>
+      <button type="button" id="resetButton">Reset</button>
+    </div>
   </div>
-  <div><select id="locationSelect" style="width: 10%; visibility: hidden"></select></div>
-  <div id="map" style="width: 100%; height: 90%"></div>
+
+  <div class="flex wrapper">
+    <div class="address-list-wrap">
+      <ul class="list-wrap" id="locationListWrapper">
+        <li class="list-marker">
+          <div class="spinner"></div>
+        </li>
+      </ul>
+    </div>
+    <div id="map" style="width: 100%; height: 100%"></div>
+  </div>
+
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/tabletop.js/1.5.1/tabletop.min.js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.6.3/papaparse.min.js'></script>
+<script src="js/index.js"></script>
   <script async defer
-  src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2eJS29rytHSz5kEyKQaTfKgvpLnZ8q9A&libraries=places&callback=initMap">
+  src="https://maps.googleapis.com/maps/api/js?key=GOOGLE_MAP_API_KEY&libraries=places&callback=initMap">
 </script>
 </body>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-<script src='https://cdnjs.cloudflare.com/ajax/libs/PapaParse/4.6.3/papaparse.min.js'></script>
-
-
-
-<script  src="js/index.js"></script>
 </html>
