@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="35px" height="45px" viewBox="0 0 35 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_location</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.5,40.8452148 C9.16666667,29.8841112 5,22.1023729 5,17.5 C5,10.5964406 10.5964406,5 17.5,5 C24.4035594,5 30,10.5964406 30,17.5 C30,22.1023729 25.8333333,29.8841112 17.5,40.8452148 Z M17.5,24 C21.0898509,24 24,21.0898509 24,17.5 C24,13.9101491 21.0898509,11 17.5,11 C13.9101491,11 11,13.9101491 11,17.5 C11,21.0898509 13.9101491,24 17.5,24 Z" id="path-1"></path>
+        <filter x="-30.0%" y="-20.9%" width="160.0%" height="141.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_location" fill-rule="nonzero">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use fill="#FC3C38" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>
